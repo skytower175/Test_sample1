@@ -1,0 +1,13 @@
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.exe
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.deps.json
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.json
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.dev.json
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\Skyto\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csprojAssemblyReference.cache
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfoInputs.cache
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfo.cs
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CoreCompileInputs.cache
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\Skyto\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Skyto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Skyto\\.nuget\\packages"
+    ]
+  }
+}

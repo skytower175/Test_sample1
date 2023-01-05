@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OZ1wgVrD5pxDVT2qCOxlZnBT67R7Cz5x+RpJugeRpLdxzzBmFxpkPXbsgmt1y27EU8r2/kGss6Mx5SpIZPipg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skyto\\source\\repos\\Test\\Final\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skyto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
